@@ -1,0 +1,56 @@
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 70px;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 60px;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+
+  .L {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .M {
+    font-size: 16px;
+    line-height: 30px;
+  }
+
+  .S {
+    font-size: 14px;
+    line-height: 30px;
+  }
+}
+
+label {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 19px;
+}
+
+button.text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 15px;
+  letter-spacing: 0.6px;
+  line-height: 20px;
+  text-transform: uppercase;
+}
